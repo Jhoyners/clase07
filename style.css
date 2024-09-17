@@ -1,0 +1,18 @@
+marquee {
+    color: crimson;
+}
+h1 {
+    background-color: aqua;
+    box-sizing: border-box;
+    text-align: center;
+}
+.vinculo{
+    text-align: center;
+    color: brown;
+    background-color: chocolate;
+    padding: 20px;
+    margin: 20px;
+    
+    
+    
+}
